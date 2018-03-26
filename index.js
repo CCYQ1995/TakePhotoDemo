@@ -12,6 +12,7 @@ class NV extends Component {
           title: '首页',
           passProps: {},
         }}
+        navigationBarHidden={true}
       />
     );
   }
